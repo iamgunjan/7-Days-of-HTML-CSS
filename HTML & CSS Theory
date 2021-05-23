@@ -1,0 +1,20 @@
+What is HTML?
+HTML stands for Hyper Text Markup Languag. It is a language made up of tags and attributes, used to create web pages and make them functional. 
+
+A simple HTML document looks like:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+Use of languages:
+1. HTML
